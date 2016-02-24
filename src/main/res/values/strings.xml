@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrafficApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_data">Display Data</string>
+</resources>
